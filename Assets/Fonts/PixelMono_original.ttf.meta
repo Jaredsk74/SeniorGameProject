@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e769e1768a032f64e8cbb5c01c8e3134
+timeCreated: 1508013680
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PixelMono
+  fontNames:
+  - PixelMono
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
